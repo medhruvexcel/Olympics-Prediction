@@ -3,7 +3,7 @@ The project aims for both the categories of Data Analytics and Machine Learning
 
 This project focuses on both analytics and machine learning-based predictions over Olympic events, teams, and nations. It provides a comprehensive analysis of Olympic data from various perspectives and implements predictive models using TensorFlow and Keras to forecast outcomes in Olympic events.
 
-Table of Contents
+Table of Contents\n
 •	Project Overview
 •	Features
 •	Installation
